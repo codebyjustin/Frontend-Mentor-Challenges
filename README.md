@@ -11,4 +11,4 @@ Four Card Feature Section
 
 Sign-up Form / Validation 
 
-![](demo.gif)
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Sign-up%20Form/demo.gif)
