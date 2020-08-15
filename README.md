@@ -12,3 +12,8 @@ Four Card Feature Section
 Sign-up Form / Validation 
 
 ![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Sign-up%20Form/demo.gif)
+
+
+Huddle Landing Page
+
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/huddle-landing-page/oKa1bT7AHp.gif)
