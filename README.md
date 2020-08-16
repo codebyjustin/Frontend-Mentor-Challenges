@@ -6,8 +6,7 @@ Challenges from site you have to recreate a website from a png image.
 
 
 Four Card Feature Section 
-
-<img width="500" alt="Four Card Feature Section" src="https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Four%20Card%20Feature%20Section/Capture.PNG">
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Four%20Card%20Feature%20Section/3k8SW8ltux.gif)
 
 Sign-up Form / Validation 
 
