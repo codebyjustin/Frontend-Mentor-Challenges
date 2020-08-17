@@ -24,3 +24,7 @@ Apperal Coming Soon Landing Page
 Single Price Grid Componen
 
 ![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Single%20Price%20Grid%20Componen/Demo.gif)
+
+Ping Coming Soon Page
+
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/ping-coming-soon-page-/demo.gif)
