@@ -13,9 +13,13 @@ Sign-up Form / Validation
 ![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Sign-up%20Form/demo.gif)
 
 
-Huddle Landing Page
+Huddle Landing Simple
 
 ![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/huddle-landing-page/oKa1bT7AHp.gif)
+
+Huddle Landing Complex
+
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Huddle%20Landing%20Page/demo.gif)
 
 Apperal Coming Soon Landing Page
 
