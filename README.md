@@ -33,3 +33,9 @@ Single Price Grid Componen
 Ping Coming Soon Page
 
 ![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/ping-coming-soon-page-/demo.gif)
+
+Fylo Landing Page
+
+![](https://raw.githubusercontent.com/codebyjustin/Frontend-Mentor-Challenges/master/Fylo%20Landing%20Page/demo.gif)
+
+
